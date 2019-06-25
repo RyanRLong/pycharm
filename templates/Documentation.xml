@@ -1,0 +1,8 @@
+<templateSet group="Documentation">
+  <template name="module" value="# pylint: disable=&#10;&quot;&quot;&quot;&#10;:mod:`$FILENAME$` -- description&#10;------------------------------------------------------&#10;Summary $END$&#10;&quot;&quot;&quot;" description="Module level documenation generation" toReformat="true" toShortenFQNames="true">
+    <variable name="FILENAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
