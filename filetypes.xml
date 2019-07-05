@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="TOAST_YIFY" type="PLAIN_TEXT" />
       <mapping pattern=".coveagerc" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="ac" type="PLAIN_TEXT" />
       <mapping pattern="MovieDb" type="Python" />
     </extensionMap>
