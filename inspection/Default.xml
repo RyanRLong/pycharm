@@ -13,6 +13,7 @@
       <list>
         <option value="value" />
         <option value="harvest.models.time_entry.TimeEntry.spent_date" />
+        <option value="harvest.models.time_entry.TimeEntry.task_assignment" />
       </list>
     </option>
   </inspection_tool>
