@@ -12,6 +12,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="value" />
+        <option value="harvest.models.time_entry.TimeEntry.spent_date" />
       </list>
     </option>
   </inspection_tool>
