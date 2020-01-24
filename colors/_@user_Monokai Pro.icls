@@ -4,7 +4,7 @@
     <property name="created">2020-01-23T22:37:29</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-23T22:51:49</property>
+    <property name="modified">2020-01-23T23:07:08</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -258,6 +258,11 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="4170fc" />
@@ -265,7 +270,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1b31fc" />
+        <option name="FOREGROUND" value="7ffc" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
