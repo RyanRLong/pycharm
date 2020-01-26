@@ -4,7 +4,7 @@
     <property name="created">2020-01-23T22:37:29</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-26T00:47:10</property>
+    <property name="modified">2020-01-26T01:19:53</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -16,7 +16,14 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -253,12 +260,13 @@
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7ffc" />
+        <option name="FOREGROUND" value="fc9867" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1b31fc" />
+        <option name="FOREGROUND" value="4b95" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
@@ -271,6 +279,11 @@
         <option name="FOREGROUND" value="78dce8" />
       </value>
     </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="403e41" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6188" />
@@ -278,17 +291,17 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="939293" />
+        <option name="FOREGROUND" value="403e41" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a9dc76" />
+        <option name="FOREGROUND" value="8ff00" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a9dc76" />
+        <option name="FOREGROUND" value="2d2a2e" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
@@ -335,11 +348,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-      </value>
-    </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffd866" />
@@ -347,7 +355,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="30bc07" />
+        <option name="FOREGROUND" value="228606" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
