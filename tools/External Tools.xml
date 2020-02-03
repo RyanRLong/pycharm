@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\ryanl\sandbox\noaa\IDPAO-Debugger\venv\Scripts\black.exe" />
       <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/sandbox/noaa/IDPAO-Debugger/venv/Scripts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/ryanl/sandbox/noaa/IDPAO-Debugger/venv/Scripts" />
     </exec>
   </tool>
 </toolSet>
