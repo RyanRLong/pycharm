@@ -24,6 +24,7 @@
         <option value="harvest.models.time_entry.TimeEntry.spent_date" />
         <option value="harvest.models.time_entry.TimeEntry.task_assignment" />
         <option value="object.item" />
+        <option value="asyncio.ProactorEventLoop" />
       </list>
     </option>
   </inspection_tool>
