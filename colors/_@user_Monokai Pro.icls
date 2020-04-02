@@ -4,7 +4,7 @@
     <property name="created">2020-02-03T16:52:17</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-04-01T16:34:53</property>
+    <property name="modified">2020-04-02T13:48:47</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2904,6 +2904,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="REST.BOLD">
+      <value>
+        <option name="FOREGROUND" value="fcfcfa" />
+      </value>
+    </option>
     <option name="REST.FIXED">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -2911,9 +2916,7 @@
       </value>
     </option>
     <option name="REST.INLINE">
-      <value>
-        <option name="BACKGROUND" value="fcfcfa" />
-      </value>
+      <value />
     </option>
     <option name="REST.INTERPRETED">
       <value>
