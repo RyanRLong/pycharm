@@ -25,6 +25,7 @@
         <option value="harvest.models.time_entry.TimeEntry.task_assignment" />
         <option value="object.item" />
         <option value="asyncio.ProactorEventLoop" />
+        <option value="polls.models.Question.objects" />
       </list>
     </option>
   </inspection_tool>
