@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b964efe-bff0-4082-a3c2-01115f3552f8" name="rlong@vm-cprk-idpao-admin1.ncep.noaa.gov:22" url="http:///">
+        <fileTransfer host="vm-cprk-idpao-admin1.ncep.noaa.gov" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
