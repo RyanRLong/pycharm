@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2b964efe-bff0-4082-a3c2-01115f3552f8" name="rlong@vm-cprk-idpao-admin1.ncep.noaa.gov:22" url="http:///">
-        <fileTransfer accessType="SFTP" sshConfigId="e3680b9b-5144-4319-860b-59bc09670082" sshConfig="rlong@vm-cprk-idpao-admin1.ncep.noaa.gov:22" />
+      <webServer id="d9266e24-6f38-4ea2-881e-db17ac8df1a1" name="rlong@vm-cprk-idpao-admin1.ncep.noaa.gov:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="vm-cprk-idpao-admin1.ncep.noaa.gov" port="22" sshConfigId="eecd533b-ffc4-4fed-ba9b-97ac03a6f942" sshConfig="rlong@vm-cprk-idpao-admin1.ncep.noaa.gov:22 password" />
       </webServer>
     </option>
   </component>

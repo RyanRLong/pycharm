@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="vm-cprk-idpao-admin1.ncep.noaa.gov" id="eecd533b-ffc4-4fed-ba9b-97ac03a6f942" port="22" nameFormat="DESCRIPTIVE" username="rlong" />
+    </configs>
+  </component>
+</application>
