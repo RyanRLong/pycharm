@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".coveragerc" type="Ini" />
       <mapping pattern="dummy" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
